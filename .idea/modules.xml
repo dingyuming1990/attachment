@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/attachment.iml" filepath="$PROJECT_DIR$/attachment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/attachment-web/attachment-web.iml" filepath="$PROJECT_DIR$/attachment-web/attachment-web.iml" />
+    </modules>
+  </component>
+</project>

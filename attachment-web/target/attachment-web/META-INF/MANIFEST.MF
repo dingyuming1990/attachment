@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: attachment-web Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Dare
+Implementation-Vendor-Id: com.dare.attachment
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7.0_67
+Main-Class: ${start-class}
+

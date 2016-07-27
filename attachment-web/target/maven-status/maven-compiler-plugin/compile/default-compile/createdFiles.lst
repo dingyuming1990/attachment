@@ -1,0 +1,4 @@
+DownloadController.class
+com\dare\attachment\web\controller\UploadController.class
+com\dare\attachment\web\Application.class
+com\dare\attachment\web\config\MvcConfiguration.class
